@@ -1,4 +1,4 @@
-# New-Factor-inspired-by-Momentum
+# Speed Factor
 Inspired by Momentum, this notebook introduces new factors - Speed, Number of Ascent and Number of Descent.
 Please find the notbook and code here:
 
